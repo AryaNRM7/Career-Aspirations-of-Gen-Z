@@ -1,6 +1,6 @@
 # Career Aspirations of Gen-Z
 
-This repository consists of the dashboards that have been made after doing neccessary steps like
+This repository consists of the dashboards that have been made after doing necessary steps like
 
 - Importing Data from a source file
 - Data Preprocessing
@@ -8,7 +8,7 @@ This repository consists of the dashboards that have been made after doing necce
 - Analysis of Data
 - Visual Dashboarding
 
-All the above steps were performed during my Internship at Kulture-Hire on project known as **Career Aspirations of Gen-Z**.
+All the above steps were performed during my Internship at **Kulture-Hire** on the project known as **Career Aspirations of Gen-Z**.
 ## Tech Stack
 
 **Data Preprocessing:** Python, SQL
