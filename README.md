@@ -15,5 +15,5 @@ All the above steps were performed during my Internship at **Kulture-Hire** on t
 
 **Data Modeling:** Postgre SQL
 
-**Analysis and Visual Dashboarding:** Power BI
+**Analysis and Visual Dashboarding:** Power BI, Tableau
 
